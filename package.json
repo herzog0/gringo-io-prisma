@@ -1,0 +1,15 @@
+{
+  "name": "gringo-io-prisma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:herzog0/gringo-io-prisma.git",
+  "author": "Teodoro B. Mendes <teobmendes@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prisma": "^3.13.0",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.13.0"
+  }
+}
