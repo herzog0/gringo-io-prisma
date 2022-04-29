@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bcd6584-8e37-4f81-b675-4a2522754b97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "/home/scar/Projects/gringo/gringo-io/gringo-io-prisma",
+    "last_opened_file_path": "/home/scar/Projects/gringo/gateway",
     "nodejs_package_manager_path": "yarn",
     "ts.external.directory.path": "/home/scar/Projects/gringo/gringo-io/gringo-io-prisma/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
@@ -49,6 +48,9 @@
       <option name="presentableId" value="Default" />
       <updated>1651120549055</updated>
       <workItem from="1651120550533" duration="2349000" />
+      <workItem from="1651124186312" duration="17000" />
+      <workItem from="1651154364173" duration="2203000" />
+      <workItem from="1651158179680" duration="2543000" />
     </task>
     <servers />
   </component>
